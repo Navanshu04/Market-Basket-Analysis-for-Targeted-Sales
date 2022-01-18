@@ -6,11 +6,11 @@ CSCI 5523: Intro to Data Mining Course Project
 Performed different association analysis and clustering techniques using observed insights to construct a personalized and efficient model for Instacart for targeted sales using Python.
 
 **Group Members**  
-    1. Silas Swarnakanth Kati(5654085)  
+    1. Navanshu Khare(5746283)      
     2. Shashank Magdi(5735673)  
     3. Seetharam Ramireddy(5733705)  
     4. Raj Vaibhav Gude(5748350)  
-    5. Navanshu Khare(5746283)    
+    5. Silas Swarnakanth Kati(5654085)  
 
 
 
