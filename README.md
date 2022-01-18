@@ -3,6 +3,8 @@
 CSCI 5523: Intro to Data Mining Course Project  
 (Fall 2021)
 
+Performed different association analysis and clustering techniques using observed insights to construct a personalized and efficient model for Instacart for targeted sales using Python.
+
 **Group Members**  
     1. Silas Swarnakanth Kati(5654085)  
     2. Shashank Magdi(5735673)  
